@@ -1,6 +1,6 @@
 [shell_img]: https://gstatic.com/cloudssh/images/open-btn.png
 
-<img src="https://github.com/Mellowed/get-liked/blob/master/public/icons/512i.png" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
+<img src="https://github.com/Mellowed/get-liked/blob/main/public/icons/512i.png" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
 
 # get-liked
 
@@ -56,7 +56,7 @@ Inevitable scope creep and curiosity lead to a chrome extention that could trans
  
   #### Using Google API
  
-![](https://github.com/Mellowed/get-liked/blob/master/images/Demo.gif)
+![](https://github.com/Mellowed/get-liked/blob/main/images/Demo.gif)
 
 </details>
 
